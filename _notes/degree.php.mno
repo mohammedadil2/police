@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:name;datatype:string,name:arbic_language;datatype:int,name:mathematics;datatype:int,name:quran;datatype:int,name:english_language;datatype:int,name:chemistry;datatype:int,name:physics;datatype:int,name:biology;datatype:int,name:engineering;datatype:int,name:history;datatype:int,name:commercial;datatype:int,name:geographies;datatype:int,name:arts;datatype:int,name:french_language;datatype:int,name:sports;datatype:int" />
+</info>
